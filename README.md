@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsanfouladi&label=Profile%20views&color=0e75b6&style=flat" alt="ehsanfouladi" /> </p>
 
-- 🔭 I’m currently working on [TradeBoty](https://tradeboty.com)
+- 🔭 I’m currently working on [iSips](https://isips.ir)
 
 - 👨‍💻 All of my projects are available at [resume.ehsanfouladi.ir](https://resume.ehsanfouladi.ir)
 
